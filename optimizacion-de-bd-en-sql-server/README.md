@@ -13,3 +13,5 @@ Optimiza el rendimiento de SQL Server: mejora consultas, crea índices eficiente
 [3. Instalación de SQL Server y SQL Management Studio](./topics/installing-sql-server.md)
 
 [4. Instalación de Bases de Datos AdventureWorks y Wide World Importers](./topics/installing-sample-database.md)
+
+[5. Plan de Ejecución: Mejorando Consultas y Queries](./topics/execution-plan.md)
