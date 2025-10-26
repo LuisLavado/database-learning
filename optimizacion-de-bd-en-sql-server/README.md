@@ -10,4 +10,6 @@ Optimiza el rendimiento de SQL Server: mejora consultas, crea índices eficiente
 
 [2. Optimización de Consultas en SQL Server para Mejorar Rendimiento](./topics/query-optimization.md)
 
+[3. Instalación de SQL Server y SQL Management Studio](./topics/installing-sql-server.md)
 
+[4. Instalación de Bases de Datos AdventureWorks y Wide World Importers](./topics/installing-sample-database.md)
